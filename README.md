@@ -1,2 +1,2 @@
 # smartcontracts
-this is some mini  smart contract project with solidity in remix IDE
+there  are some mini smartcontract project with solidity in remix IDE
